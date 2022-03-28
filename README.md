@@ -3,3 +3,7 @@
 
 ## table of list
 1. vue 개발환경
+2. vue CDN 사용해보기
+3. vue-cli 사용하기
+4. npm 이란?
+5. serve vs build 차이점
